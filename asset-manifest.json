@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ToDoPro/static/css/main.e6c13ad2.css",
+    "main.js": "/ToDoPro/static/js/main.7ccd04cb.js",
+    "static/js/453.5149beab.chunk.js": "/ToDoPro/static/js/453.5149beab.chunk.js",
+    "static/media/img.png": "/ToDoPro/static/media/img.2eef38c3bc8244de1601.png",
+    "index.html": "/ToDoPro/index.html",
+    "main.e6c13ad2.css.map": "/ToDoPro/static/css/main.e6c13ad2.css.map",
+    "main.7ccd04cb.js.map": "/ToDoPro/static/js/main.7ccd04cb.js.map",
+    "453.5149beab.chunk.js.map": "/ToDoPro/static/js/453.5149beab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7ccd04cb.js"
+  ]
+}
